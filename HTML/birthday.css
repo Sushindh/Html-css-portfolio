@@ -1,0 +1,11 @@
+html{
+    background-color:yellow;
+    color:#FFFF92;
+    background-image: linear-gradient(to bottom right, violet,red);
+}
+
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}

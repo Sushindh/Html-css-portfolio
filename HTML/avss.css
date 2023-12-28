@@ -1,0 +1,12 @@
+img{
+    width:600px;
+    height:600px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+html{
+    background-color: royalblue;
+    background-image: linear-gradient(to bottom right,royalblue,violet);
+}
